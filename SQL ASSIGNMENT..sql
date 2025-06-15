@@ -1,3 +1,4 @@
+
 # 1. Create a table called employees with the following structure?
 #: emp_id (integer, should not be NULL and should be a primary key)Q
 #: emp_name (text, should not be NULL)Q
